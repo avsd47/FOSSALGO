@@ -22,7 +22,7 @@ Community maintained list of Algorithm and Data Structure implementations.
 | Algorithm                        | C                  | CPP                | Java               | Python2            | Python3            | Golang | JavaScript         | C#    | TypeScript |
 | :---                             | :---:              | :---:              | :---:              | :---:              | :---               | :---:  | :---:              | :---: | :---:      |
 | Bin Sort                         |                    |                    |                    |                    |                    |        |                    |       |            |
-| Binary Search                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    | :white_check_mark: |        | :white_check_mark: |       |            |
+| Binary Search                    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |        | :white_check_mark: |       |            |
 |                                  |                    |                    |                    |                    |                    |        |                    |       |            |
 | Breadth First Search             |                    |                    |                    |                    |                    |        |                    |       |            |
 | Breadth First Traversal          |                    |                    |                    |                    |                    |        |                    |       |            |
@@ -158,6 +158,7 @@ Only project maintainers should merge a PR. Other members can add their reviews 
   <tr>
     <td align="center"><a href="https://github.com/Srinjoycode"><img src="https://avatars1.githubusercontent.com/u/55613633?v=4" width="100px;" alt=""/><br /><sub><b>Srinjoy Bhuiya</b></sub></a><br /><a href="https://github.com/FOSS-UCSC/FOSSALGO/commits?author=Srinjoycode" title="Code">💻</a> <a href="https://github.com/FOSS-UCSC/FOSSALGO/commits?author=Srinjoycode" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ashera96"><img src="https://avatars3.githubusercontent.com/u/30475839?v=4" width="100px;" alt=""/><br /><sub><b>Ashera Silva</b></sub></a><br /><a href="https://github.com/FOSS-UCSC/FOSSALGO/commits?author=ashera96" title="Code">💻</a> <a href="https://github.com/FOSS-UCSC/FOSSALGO/commits?author=ashera96" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/avsd47"><img src="https://avatars0.githubusercontent.com/u/47289942?s=400&u=29eb591b7decff18890e929d4c0593dd86f7236a&v=4" width="100px;" alt=""/><br /><sub><b>avsd47</b></sub></a><br /><a href="https://github.com/FOSS-UCSC/FOSSALGO/commits?author=avsd47" title="Code">💻</a></td>
   </tr>
 </table>
 
